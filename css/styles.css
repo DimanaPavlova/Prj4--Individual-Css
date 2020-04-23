@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+* {
+margin: 0;
+padding: 0;
+}
+
+.Navigation {
+    font-family: 'Raleway', sans-serif;
+    font-size: x-large;	
+}
+.Navigation li {
+	display: inline;
+	padding-right: 20px
+}
+
+body {
+    background-image: url(../images/Peach-Bud-Pantone-iPhone-Wallpaper.jpg);
+    background-repeat: repeat;
+}
+h1 {
+    color: #6B0D35;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    color: #6B0D35;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+div {
+		font-family: 'Rubik', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+	
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	font-size: 20px;
+}
+
+header {
+    padding: 100px;
+    text-align: center;
+    color: #6B0D35;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    background-image: url(../images/animals-1454214_1280.png);
+}
+
+
+
+footer {
+    background-image: url(../images/animals-1454214_1280-1.png);
+    padding: 90px;
+    text-align: center;
+    color: #6B0D35;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
